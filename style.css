@@ -1,0 +1,159 @@
+h1.head{
+    text-align: center;
+    font-size: 45px;
+    font-family: arial;
+;
+
+}
+
+p.hand{
+  color: red;
+  text-align: center;
+  font-size: 30px;
+}
+
+p.Hand2{
+    font-family: arial;
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+}
+
+p.hand3{
+    font-size: 25px;
+}
+
+body.support{
+  background-color: #F3F3F3;
+}
+
+a.link{
+  text-decoration: none;
+  font-size: 22px;
+  margin-bottom: 140px;
+  margin-bottom: 50px;
+}
+
+
+a.link12{
+  text-decoration: none;
+  font-size: 22px;
+  margin-bottom: 50px;
+}
+
+
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+button{
+  margin-bottom: 50px;
+}
+
+p.contact{
+    text-align: justify;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+p.Auteur{
+  font-family: arial;
+  text-align: center;
+  margin-top: 10px;
+}
+
+p.bite{
+  margin-top: 30px;
+  font-family: arial;
+  font-size: 30px;
+  color: #2E64FE;
+  margin-bottom: 40px;
+}
+
+form.form2{
+  font-size: 20px;
+}
+
+form.bite34{
+  font-size: 20px;
+}
+
+form.Rich12{
+  font-size: 25px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+p.sar24{
+  text-align: center;
+  color: red;
+  font-size: 45px;
+  font-family: arial;
+    border-style: solid;
+}
+
+div.stop2{
+  background-color: white;
+  text-align: justify;
+}
+
+div.Hello1234{
+    margin-top: 30px;
+    margin-right: 20px;
+    background-color: white;
+}
+
+div.grid-container{
+    display: grid;
+    background-color: #837B73;
+}
+
+div.grid-container2{
+  display: grid;
+}
+
+div.mdr42{
+  margin-bottom: 30px;
+  background-color: white;
+  text-decoration: underline;
+  text-align: justify;
+}
+
+h1.putre123{
+  font-size: 34px;
+  text-align: center;
+  margin-bottom: 25px;
+  color: blue;
+}
+
+div.chaine14{
+margin-left: 10px;
+}
